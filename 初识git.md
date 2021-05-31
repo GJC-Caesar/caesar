@@ -116,9 +116,9 @@
 
     - 基于索引值操作：git reset --hard [局部索引值]
 
-    - 使用^符号：git reset --hard HEAD^ (只能后退)(^的个数为版本后退的版本数)
+    - 使用 ^ 符号：git reset --hard HEAD^ (只能后退)(^的个数为版本后退的版本数)
 
-    - 使用~符号：git reset --hard HEAD~n (n：后退的步数) (只能后退)
+    - 使用 ~ 符号：git reset --hard HEAD~n (n：后退的步数) (只能后退)
 
     - reset命令的三个参数对比
     
